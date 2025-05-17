@@ -16,7 +16,7 @@ A simple and intuitive Todo List application . This project allows users to effi
 1. **Clone the repository**
    ```bash
    git clone https://github.com/shreyaillur14/todo_list.git
-   cd Todo_list_reactjs
+   cd todo_list
 
 2. Install dependencies
    ```bash
