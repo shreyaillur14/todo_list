@@ -15,7 +15,7 @@ A simple and intuitive Todo List application . This project allows users to effi
 
 1. **Clone the repository**
    ```bash
-   
+   git clone https://github.com/shreyaillur14/todo_list.git
    cd Todo_list_reactjs
 
 2. Install dependencies
@@ -23,27 +23,23 @@ A simple and intuitive Todo List application . This project allows users to effi
    npm install
    ```
 
-3. Start the development server
+3. Open index.html file
    ```bash
-   npm start
+   open index.html
    ```
 
 ## Technologies Used
 
-- React
-- Vite
-- CSS
 - HTML
+- CSS
 - JavaScript(ES6+)
 
 ## Deployment
 
-This project is deployed on Vercel. You can view the live version at todo-list-reactjs-ecru.vercel.app
- .
+This project is deployed on Netlify. You can view the live version at project5-todo-list-frontend.netlify.app
 
 ## Future Improvements
 
-- Add user authentication for personal todo lists
 - Integrate with a backend/database for cloud storage
 - Enable drag-and-drop task reordering
 - Add due dates and reminders for tasks
