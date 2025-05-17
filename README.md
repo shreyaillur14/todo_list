@@ -36,7 +36,7 @@ A simple and intuitive Todo List application . This project allows users to effi
 
 ## Deployment
 
-This project is deployed on Netlify. You can view the live version at project5-todo-list-frontend.netlify.app
+This project is deployed on Netlify. You can view the live version at https://project5-todo-list-frontend.netlify.app/
 
 ## Future Improvements
 
