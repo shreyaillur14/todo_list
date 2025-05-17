@@ -1,4 +1,4 @@
-# Todo List React.js
+# Todo List 
 
 A simple and intuitive Todo List application . This project allows users to efficiently manage their daily tasks through a user-friendly interface, offering full CRUD functionality for todos.
 
